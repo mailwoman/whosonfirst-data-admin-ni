@@ -46,8 +46,7 @@
     "wof:belongsto":[
         102191575,
         85632599,
-        85675461,
-        1108693815
+        85675461
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -62,7 +61,6 @@
         {
             "continent_id":102191575,
             "country_id":85632599,
-            "county_id":1108693815,
             "locality_id":421197917,
             "region_id":85675461
         }
@@ -70,7 +68,7 @@
     "wof:id":421197917,
     "wof:lastmodified":1566657088,
     "wof:name":"Pe\u00f1as Blancas",
-    "wof:parent_id":1108693815,
+    "wof:parent_id":-1,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ni",
     "wof:superseded_by":[],

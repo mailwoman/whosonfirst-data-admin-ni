@@ -33,8 +33,7 @@
     "wof:belongsto":[
         102191575,
         85632599,
-        85675461,
-        1108693815
+        85675461
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,7 +45,6 @@
         {
             "continent_id":102191575,
             "country_id":85632599,
-            "county_id":1108693815,
             "locality_id":1259753459,
             "region_id":85675461
         }
@@ -54,7 +52,7 @@
     "wof:id":1259753459,
     "wof:lastmodified":1566657170,
     "wof:name":"El Disparate",
-    "wof:parent_id":1108693815,
+    "wof:parent_id":-1,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ni",
     "wof:superseded_by":[],
